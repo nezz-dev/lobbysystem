@@ -1,0 +1,6 @@
+name: Lobbysystem
+version: '${project.version}'
+main: net.ddns.nightsky.lobbysystem.Main
+api-version: 1.19
+authors: [ nico ]
+description: lobbysystem plugin for nightsky.ddns.net
